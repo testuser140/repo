@@ -1,10 +1,10 @@
-#ABOUT
+# ABOUT
 
 a simple null implementition
 
 
-#how to use
+# how to use
 
-*null
-  *null
-*null
+* null
+  * null
+* null
