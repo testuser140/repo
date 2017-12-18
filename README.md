@@ -13,4 +13,4 @@ a simple null implementition
 * null
 
 ***[ bold text ]*** <br /><br /> 
-bla bla bla
+bla bla bla <code>hi there</code>
