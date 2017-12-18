@@ -12,4 +12,4 @@ a simple null implementition
   - null
 * null
 
-***bold text***
+***[ bold text ]***
