@@ -12,5 +12,5 @@ a simple null implementition
   - null
 * null
 
-***[ bold text ]*** <br /> 
+***[ bold text ]*** <br /><br /> 
 bla bla bla
