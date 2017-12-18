@@ -15,7 +15,7 @@ LilyOfTheValley is a simple LKM linux kernel rootkit for kernel versions 4.X/3.X
 
 <br />
 
-to see the currently supported commands use <code> cat /proc/lilyofthevalleyr00tkit <code/> 
+to see the currently supported commands use <code>cat /proc/lilyofthevalleyr00tkit<code/> 
 
 
 
