@@ -16,4 +16,6 @@ a simple null implementition
 
 bla bla bla <code>hi there</code><br />
 
-***[ another bold text ]***
+***[ another bold text ]*** <br />
+
+write \*command\*
