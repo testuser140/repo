@@ -14,6 +14,6 @@ a simple null implementition
 
 ***[ bold text ]*** <br />
 
-bla bla bla <code>hi there</code><br /><br />
+bla bla bla <code>hi there</code><br />
 
 ***[ another bold text ]***
