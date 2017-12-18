@@ -11,12 +11,11 @@ LilyOfTheValley is a simple LKM linux kernel rootkit for kernel versions 4.X/3.X
 
 ## Usage
 
-\*Available Commands\*
-<br/> 
+### Available Commands
 to see the currently supported commands use <code>cat /proc/lilyofthevalleyr00tkit<code/>  
-<br/>
-\*Hiding processes\* 
+
+### Hiding processes
 write <code> HideMe <code/> to <code> /proc/lilyofthevalleyr00tkit <code/> to hide your process 
-<br/>
-\*giving root\*
+
+### giving root
 
